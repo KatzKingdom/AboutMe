@@ -1,9 +1,3 @@
-# ILikePickles
+# About Me
 
-This is the only public repo I have.
-
-How interesting.
-
-Check out some meaningless stats since everything I have is private :)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=KatzKingdom&show_icons=true&theme=radical)
+Pretty much all of my repos are private, sorry. I'll hopefully get some public stuff out there soon & then this will have more meaning.
