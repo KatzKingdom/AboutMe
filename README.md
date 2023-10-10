@@ -1,3 +1,3 @@
 # About Me
 
-Pretty much all of my repos are private, sorry. I'll hopefully get some public stuff out there soon & then this will have more meaning.
+Hey! Thanks for checking out my GitHub. Unfortunately, all of my repositories are private as they are primarily for clients and contain priviledged content. I'll hopefully get some public stuff out there soon! While you're here, check me out at https://katz.gg
